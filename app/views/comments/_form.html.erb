@@ -1,3 +1,4 @@
+<% if user_signed_in? %>
 <%= form_for([@post, @post.comments.build]) do |f| %>
   <p>
     <%= f.label :commenter %><br>
@@ -9,5 +10,10 @@
   </p>
   <p>
     <%= f.submit %>
+  </p>
+  <% end %>
+  <% else %>
+  <p>
+  <b>Для просмотра комментарий необходимо </b> <%= link_to 'Зарегистрироваться', new_user_registration_path %>
   </p>
 <% end %>
