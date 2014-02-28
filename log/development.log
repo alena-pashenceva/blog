@@ -3092,3 +3092,190 @@ Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-02-28 12:07:05 +04
 
 
 Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-02-28 12:07:05 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-02-28 12:55:08 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 17202ms (Views: 17045.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-02-28 12:55:26 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-02-28 12:55:26 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-02-28 12:55:26 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-02-28 12:55:26 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-02-28 12:55:27 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-02-28 13:10:42 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.0ms)
+Completed 500 Internal Server Error in 273ms
+
+ActionView::Template::Error (Invalid CSS after " input": expected selector or at-rule, was "[type= submit] ..."
+  (in C:/blog/app/assets/stylesheets/application.css.scss:16)):
+    2: <html>
+    3: <head>
+    4:   <title>BlogLost</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/application.css.scss:16
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__835544931_35709276'
+
+
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (9.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (8.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (146.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-02-28 13:12:13 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 322ms
+
+ActionView::Template::Error (Invalid CSS after " input ": expected selector or at-rule, was "[type= submit] ..."
+  (in C:/blog/app/assets/stylesheets/application.css.scss:16)):
+    2: <html>
+    3: <head>
+    4:   <title>BlogLost</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/application.css.scss:16
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__835544931_35709276'
+
+
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (13.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (131.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-02-28 13:15:18 +0400
+  [1m[36mActiveRecord::SchemaMigration Load (2.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (16.0ms)
+Completed 500 Internal Server Error in 396ms
+
+ActionView::Template::Error (Invalid CSS after " input ": expected selector or at-rule, was "[type= submit] ..."
+  (in C:/blog/app/assets/stylesheets/application.css.scss:16)):
+    2: <html>
+    3: <head>
+    4:   <title>BlogLost</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/application.css.scss:16
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___891825243_33959424'
+
+
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (8.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (98.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-02-28 13:16:55 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.0ms)
+Completed 500 Internal Server Error in 255ms
+
+ActionView::Template::Error (Invalid CSS after " input ": expected selector or at-rule, was "[type= submit] ..."
+  (in C:/blog/app/assets/stylesheets/application.css.scss:16)):
+    2: <html>
+    3: <head>
+    4:   <title>BlogLost</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/application.css.scss:16
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___891825243_33959424'
+
+
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (12.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (7.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (149.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-02-28 13:17:03 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (13.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (990.1ms)
+Completed 500 Internal Server Error in 1727ms
+
+ActionView::Template::Error (Invalid CSS after " input ": expected selector or at-rule, was "[type= submit] ..."
+  (in C:/blog/app/assets/stylesheets/application.css.scss:16)):
+    2: <html>
+    3: <head>
+    4:   <title>BlogLost</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/application.css.scss:16
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___891825243_33959424'
+
+
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (11.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (10.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (151.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-02-28 13:17:06 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (5.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (64.0ms)
+Completed 500 Internal Server Error in 316ms
+
+ActionView::Template::Error (Invalid CSS after " input ": expected selector or at-rule, was "[type= submit] ..."
+  (in C:/blog/app/assets/stylesheets/application.css.scss:16)):
+    2: <html>
+    3: <head>
+    4:   <title>BlogLost</title>
+    5:   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+    6:   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/application.css.scss:16
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___891825243_33959424'
+
+
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (13.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (8.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (158.0ms)
