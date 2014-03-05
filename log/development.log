@@ -13414,3 +13414,3444 @@ Processing by Devise::RegistrationsController#new as HTML
   Rendered devise/shared/_links.erb (1.0ms)
   Rendered devise/registrations/new.html.erb within layouts/application (20.0ms)
 Completed 200 OK in 115ms (Views: 110.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-03-05 15:22:22 +0400
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.erb (25.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (1492.1ms)
+Completed 200 OK in 15612ms (Views: 14182.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:22:44 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:22:44 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:22:44 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:22:44 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:22:44 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:22:45 +0400
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2014-03-05 15:25:48 +0400
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.erb (2.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (58.0ms)
+Completed 200 OK in 6892ms (Views: 6886.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:25:55 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:25:56 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:26:06 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 217ms (Views: 213.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:26:06 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:26:06 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:26:06 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:26:06 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:26:06 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:26:06 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:26:07 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:28:09 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (155.0ms)
+Completed 200 OK in 325ms (Views: 323.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:10 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:28:11 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:29:37 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 147ms (Views: 137.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:29:37 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:29:37 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:29:37 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:29:37 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:29:37 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:29:38 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:33:02 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 97ms (Views: 94.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:03 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:04 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:04 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:04 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 98ms (Views: 95.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:09 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:10 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:10 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:33:24 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6626ms (Views: 6623.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:30 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:30 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:33:31 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:33:58 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 5925ms (Views: 5920.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:04 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:05 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:34:54 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 84ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:34:55 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:35:18 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6465ms (Views: 6463.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:35:25 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:35:32 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (174.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (798.0ms)
+Completed 200 OK in 1024ms (Views: 740.0ms | ActiveRecord: 174.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:43:49 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 105ms (Views: 101.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:45:25 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 86ms (Views: 83.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:45:26 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (99.0ms)
+Completed 200 OK in 186ms (Views: 182.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:44 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:45 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:45 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:45 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:45 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:45 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:45 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:46:45 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:50:00 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 6158ms (Views: 6154.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:06 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:07 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 113ms (Views: 108.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:13 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:14 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:14 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:14 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:14 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:50:14 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (3.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 106ms (Views: 101.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:18 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:19 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:19 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:19 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:19 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:19 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:19 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:51:24 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 98ms (Views: 94.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:24 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:25 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:51:40 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (2.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 6158ms (Views: 6155.4ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:46 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:46 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:46 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:51:47 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:52:10 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 5981ms (Views: 5976.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:16 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:16 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:16 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:16 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:16 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:16 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:52:17 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:53:15 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (2.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 5966ms (Views: 5962.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:21 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:22 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:22 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:22 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:22 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:22 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:22 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:53:53 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (3.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 5845ms (Views: 5839.3ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:53:59 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:00 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:54:33 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 6115ms (Views: 6111.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:39 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:40 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:54:45 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 170ms (Views: 165.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:45 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:45 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:54:46 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:55:22 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 189ms (Views: 186.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:22 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:22 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:22 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:22 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 15:55:23 +0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 15:55:27 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 120ms (Views: 118.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 15:55:38 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 99ms (Views: 94.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/posts/1" for 127.0.0.1 at 2014-03-05 15:55:59 +0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (56.0ms)[0m  SELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mComment Load (39.0ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered collection (1.0ms)
+  Rendered comments/_form.html.erb (11.0ms)
+  Rendered posts/show.html.erb within layouts/application (2469.1ms)
+Completed 200 OK in 3173ms (Views: 2546.1ms | ActiveRecord: 97.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:05:20 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (2.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 6441ms (Views: 6434.4ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:27 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:27 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:27 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:27 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:05:28 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 98ms (Views: 93.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:11 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:12 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:12 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:12 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:06:12 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:08:06 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (2.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 6559ms (Views: 6555.4ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:13 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:13 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:13 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:13 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:08:14 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 104ms (Views: 99.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:14 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:15 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:15 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:09:15 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:10:16 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 105ms (Views: 102.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:16 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:16 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:16 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:10:17 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:18:58 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 6225ms (Views: 6220.4ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:19:05 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:20:32 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (2.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 99ms (Views: 95.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:32 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:32 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:32 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:33 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:20:37 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 93ms (Views: 88.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:20:38 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:21:18 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 100ms (Views: 97.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:21:19 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:25:56 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (51.0ms)
+Completed 200 OK in 143ms (Views: 138.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:56 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:56 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:56 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:56 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:56 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:25:57 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 105ms (Views: 100.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:45 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:46 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:46 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:46 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:46 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:46 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:46 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:28:46 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:29:48 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 108ms (Views: 101.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:49 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:29:50 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:32:06 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (2.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 109ms (Views: 104.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:07 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:32:48 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 171ms (Views: 167.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:48 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:48 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:48 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:48 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:48 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:49 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 94ms (Views: 90.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:32:53 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:33:15 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 107ms (Views: 104.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:16 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 93ms (Views: 88.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:19 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:20 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 111ms (Views: 107.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:54 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:55 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:55 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:55 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:55 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:33:55 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 116ms (Views: 110.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:36:04 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:36:05 +0400
+
+
+Started GET "/posts/1" for 127.0.0.1 at 2014-03-05 16:39:14 +0400
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35mComment Load (2.0ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Rendered collection (0.0ms)
+  Rendered comments/_form.html.erb (13.0ms)
+  Rendered posts/show.html.erb within layouts/application (58.0ms)
+Completed 200 OK in 284ms (Views: 249.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:15 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:15 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:15 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:15 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:15 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:39:16 +0400
+
+
+Started GET "/posts/1/edit" for 127.0.0.1 at 2014-03-05 16:39:42 +0400
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"1"}
+Completed 401 Unauthorized in 36ms
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2014-03-05 16:39:44 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.erb (91.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (571.0ms)
+Completed 200 OK in 981ms (Views: 799.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 16:39:59 +0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 178ms (Views: 171.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:00 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:40:03 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 97ms (Views: 92.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:40:08 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 99ms (Views: 95.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:08 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:09 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:40:33 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 118ms (Views: 113.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:33 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:33 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:33 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:33 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:33 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:33 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:40:34 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 92ms (Views: 89.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:22 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:23 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:41:27 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 101ms (Views: 96.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:27 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:27 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:27 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:27 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:27 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:27 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:41:28 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:43:43 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 107ms (Views: 100.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:44 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:45 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:45 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:45 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:43:45 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:44:55 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 5773ms (Views: 5769.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:01 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:02 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:02 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:45:41 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 6063ms (Views: 6060.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:47 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:47 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:45:48 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:49:24 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (2.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 5832ms (Views: 5827.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:30 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:49:31 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:59:18 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (3.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 120ms (Views: 113.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:19 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:59:26 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 101ms (Views: 95.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:26 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:26 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:26 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:26 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:26 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:27 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 16:59:41 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 92ms (Views: 89.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 16:59:42 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 17:00:04 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (3.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 6431ms (Views: 6425.4ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 17:00:11 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (1.0ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 126ms (Views: 120.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:10 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:11 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:11 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:11 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:11 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:11 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 17:23:11 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 17:25:19 +0400
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (1.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (985.1ms)
+Completed 500 Internal Server Error in 1028ms
+
+ActionView::Template::Error (undefined local variable or method `post' for #<#<Class:0x3ed5b98>:0x3707898>):
+    13:    </div>   
+    14:    <div class="span4">
+    15: 
+    16:   <%= link_to 'Show', post_path(post) %>
+    17:     <%= link_to 'Edit', edit_post_path(post) %>
+    18:     <%= link_to 'Destroy', post_path(post),
+    19:                     method: :delete, data: { confirm: 'Are you sure?' } %>
+  app/views/posts/index.html.erb:16:in `_app_views_posts_index_html_erb__82720528_32162604'
+
+
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (14.0ms)
+  Rendered D:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (123.0ms)
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 17:25:33 +0400
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 96ms (Views: 93.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:34 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:35 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:35 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:35 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:35 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:35 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 17:25:36 +0400
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 88ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:37 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 107ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:55 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 17:25:56 +0400
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-03-05 17:26:43 +0400
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 175ms (Views: 172.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/h.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/registrstion.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/persons.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/shapka.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/comments.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/comments.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/persons.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 17:26:44 +0400
