@@ -1,18 +1,26 @@
-<h2>Sign up</h2>
-
-<%= form_for(resource, :as => resource_name, :url => registration_path(resource_name)) do |f| %>
+<center>
+  <h2 id="w2">Регистрация</h2>
+ 
+  <%= form_for(resource, :as => resource_name, :url => registration_path(resource_name)) do |f| %>
   <%= devise_error_messages! %>
 
-  <div><%= f.label :email %><br />
-  <%= f.email_field :email, :autofocus => true %></div>
 
-  <div><%= f.label :password %><br />
-  <%= f.password_field :password %></div>
+ <div id = "regnew"> 
+    <div><%= f.label :email %><br />
+      <%= f.email_field :email, :autofocus => true %></div>
 
-  <div><%= f.label :password_confirmation %><br />
-  <%= f.password_field :password_confirmation %></div>
 
-  <div><%= f.submit "Sign up" %></div>
-<% end %>
 
+    <div><%= f.label :password, class: "control-label" %><br />
+      <%= f.password_field :password %></div>
+
+    <div><%= f.label :password_confirmation, class: "control-label"%><br />
+      <%= f.password_field :password_confirmation %></div>
+
+    <div><%= f.submit "Sign up", class: "btn btn-success" %></div>
+    
+    </div>  
+  <% end %>
+ 
+</center>
 <%= render "devise/shared/links" %>
