@@ -8,7 +8,7 @@
 </head>
  
 <body >
-	<div id = "shapk"> 
+	<div class = "shapk"> 
 	 <div id="le">
 	<% if user_signed_in? %>
     <span>Здравствуйте, <%= current_user.email %></span>
@@ -17,8 +17,22 @@
     <%= link_to 'Войти', new_user_session_path %> или <%= link_to 'Зарегистрироваться', new_user_registration_path %>
 <% end %>
      </div>
+     <div class="container">
+     	<div class="row">
+     	  <div class="col-md-3 ramka ">
+            <%= link_to 'Главная', controller: "welcome", class: "colorshapka"%>
+           </div>
+           <div class="col-md-3 ramka">
+           	
+     <%= link_to 'Новый пост' , new_post_path , class: "colorshapka"%> 
+            
+           </div>
+     		<div class="col-md-3 ramka">
+     <%= link_to 'Все посты', posts_path , class: "colorshapka"%>
+           </div>
+      </div>
      </div>
-     <%= link_to 'Новый пост', new_posts_path %> 
+     </div>
 <%= yield %>
 
 </body>
